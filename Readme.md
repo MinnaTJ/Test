@@ -2,3 +2,4 @@
 stage means Its okay
 1
 learned to commit happy day:)
+today is friday
